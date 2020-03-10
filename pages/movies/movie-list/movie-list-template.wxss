@@ -19,6 +19,7 @@
 
 .slogan {
   font-size: 24rpx;
+  margin-left:18rpx;
 }
 
 .more {
@@ -40,4 +41,5 @@
 .movies-container{
     display:flex;
     flex-direction: row;
+    margin-top:20rpx;
 }
